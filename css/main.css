@@ -240,6 +240,8 @@ a.btn-back {
 	display: inline-block;
 	min-width: 100px;
 	padding: 2px 0;
+    text-align: center;
+    width: 100%;
 }
 
 .newer-posts
