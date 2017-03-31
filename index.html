@@ -15,7 +15,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/rastikerdar/vazir-font/v10.0.0-beta/dist/font-face.css">
-  <script src="js/persian-date-0.1.8.min.js" charset="utf-8"></script>
+  <script src="/js/persian-date-0.1.8.min.js" charset="utf-8"></script>
   <script>
     persianDate().format();
     </script>
@@ -175,12 +175,24 @@
 
   
 </div>
-<nav class="pagination" role="navigation">
-
-
-  <span class="page-number">Page 1 of 1</span>
-
-</nav>
+<div class="page-number">
+    <script type="text/javascript">
+        eng = "صفحه 1 از 1";
+        const regex = /[0-9]/g;
+        result = eng.replace(regex, function (w) {
+            return String.fromCharCode(w.charCodeAt(0) + 1728)
+        });
+        document.write(result);
+    </script>
+</div>
+<ul class="pager">
+    
+    <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span>نوشته‌های کهنه‌تر</a></li>
+    
+    
+    <li class="next disabled"><a href="#">نوشته‌های جدیدتر<span aria-hidden="true">&rarr;</span></a></li>
+    
+</ul>
 
   </main>
   <footer class="container global-footer">
