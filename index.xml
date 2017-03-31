@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>مجید حاجی‌حیدری</title>
-    <link>/index.xml</link>
+    <link>http://hhdri.com/index.xml</link>
     <description>Recent content on مجید حاجی‌حیدری</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-ir</language>
     <lastBuildDate>Fri, 31 Mar 2017 11:58:06 +0430</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hhdri.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>پست تست!</title>
-      <link>/post/test/</link>
+      <link>http://hhdri.com/post/test/</link>
       <pubDate>Fri, 31 Mar 2017 11:58:06 +0430</pubDate>
       
-      <guid>/post/test/</guid>
+      <guid>http://hhdri.com/post/test/</guid>
       <description>&lt;p&gt;پست تست!!!&lt;/p&gt;
 </description>
     </item>

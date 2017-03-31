@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/post/test/</loc>
+    <loc>http://hhdri.com/post/test/</loc>
     <lastmod>2017-03-31T11:58:06+04:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://hhdri.com/post/</loc>
     <lastmod>2017-03-31T11:58:06+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://hhdri.com/</loc>
     <lastmod>2017-03-31T11:58:06+04:30</lastmod>
     <priority>0</priority>
   </url>
