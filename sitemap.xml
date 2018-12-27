@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/darya/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/post/darya/</loc>
     <lastmod>2017-03-31T19:33:23+04:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/test/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/post/test/</loc>
     <lastmod>2017-03-31T19:31:23+04:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/eynak/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/post/eynak/</loc>
     <lastmod>2017-03-31T19:31:23+04:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-03-31T19:33:23+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86/</loc>
-    <lastmod>2017-03-31T19:31:23+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%D8%AF%D8%B1%DB%8C%D8%A7/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/post/</loc>
     <lastmod>2017-03-31T19:33:23+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/%D8%B1%D8%B3%D9%88%D9%84%D9%BE%D8%B1%D9%88%DB%8C%D8%B2%DB%8C/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/tags/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86/</loc>
     <lastmod>2017-03-31T19:31:23+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/tags/%D8%AF%D8%B1%DB%8C%D8%A7/</loc>
     <lastmod>2017-03-31T19:33:23+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/%D9%88%DB%8C%DA%A9%DB%8C/</loc>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/tags/%D8%B1%D8%B3%D9%88%D9%84%D9%BE%D8%B1%D9%88%DB%8C%D8%B2%DB%8C/</loc>
+    <lastmod>2017-03-31T19:31:23+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/</loc>
+    <lastmod>2017-03-31T19:33:23+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhdri.github.io/post/darya/css/font-awesome.min.css/tags/%D9%88%DB%8C%DA%A9%DB%8C/</loc>
     <lastmod>2017-03-31T19:33:23+04:30</lastmod>
     <priority>0</priority>
   </url>
