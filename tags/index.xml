@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on مجید حاجی‌حیدری</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on مجید حاجی‌حیدری</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>داستان</title>
+      <link>/tags/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86/</link>
+      <pubDate>Fri, 31 Mar 2017 19:31:23 +0430</pubDate>
+      
+      <guid>/tags/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>دریا</title>
+      <link>/tags/%D8%AF%D8%B1%DB%8C%D8%A7/</link>
+      <pubDate>Fri, 31 Mar 2017 19:33:23 +0430</pubDate>
+      
+      <guid>/tags/%D8%AF%D8%B1%DB%8C%D8%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>رسولپرویزی</title>
+      <link>/tags/%D8%B1%D8%B3%D9%88%D9%84%D9%BE%D8%B1%D9%88%DB%8C%D8%B2%DB%8C/</link>
+      <pubDate>Fri, 31 Mar 2017 19:31:23 +0430</pubDate>
+      
+      <guid>/tags/%D8%B1%D8%B3%D9%88%D9%84%D9%BE%D8%B1%D9%88%DB%8C%D8%B2%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ویکی</title>
+      <link>/tags/%D9%88%DB%8C%DA%A9%DB%8C/</link>
+      <pubDate>Fri, 31 Mar 2017 19:33:23 +0430</pubDate>
+      
+      <guid>/tags/%D9%88%DB%8C%DA%A9%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
