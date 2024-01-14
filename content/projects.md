@@ -37,8 +37,12 @@ UseHugoToc: true
 ---
 
 ## Pizza
+**Project Link**: [https://hhdri.github.io/pizza/](https://hhdri.github.io/pizza/)
+
 **Github link**: [https://github.com/hhdri/pizza](https://github.com/hhdri/pizza)
 ## agglo.cpp
 **Github link**: [https://github.com/hhdri/agglo.cpp](https://github.com/hhdri/agglo.cpp)
 ## Credible Interval for Beta Distribution
+**Project Link**: [https://hhdri.github.io/stats/](https://hhdri.github.io/stats/)
+
 **Github link**: [https://github.com/hhdri/stats](https://github.com/hhdri/stats)

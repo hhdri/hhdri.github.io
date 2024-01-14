@@ -39,7 +39,7 @@ cover:
 ## Contact Information
 - **Position**: Vio.com, Amsterdam, Netherlands
 - **Email**: majidhhdri@gmail.com
-- **LinkedIn**: [mjdhydri](https://www.linkedin.com/in/hhdri)
+- **LinkedIn**: [hhdri](https://www.linkedin.com/in/hhdri)
 <!-- - **Phone**: +31 686 33 28 77 -->
 
 ## Experience
