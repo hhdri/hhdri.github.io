@@ -88,9 +88,9 @@ params:
     - name: leetcode
       url: "https://leetcode.com/hhdri/"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-65T92NBS88"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
