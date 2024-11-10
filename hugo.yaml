@@ -72,6 +72,8 @@ params:
         url: projects
       - name: My CV
         url: cv
+      - name: Pizza
+        url: pizza
 
   # home-info mode
   homeInfoParams:
@@ -130,6 +132,10 @@ menu:
       name: my CV
       url: /cv/
       weight: 30
+    - identifier: pizza
+      name: pizza
+      url: /pizza
+      weight: 40
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
