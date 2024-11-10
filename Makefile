@@ -6,6 +6,9 @@ WEB_ROOT := /var/www/hhdri.com
 
 all: deploy
 
+pre-commit:
+	rsync -av --delete ./pizza/ ./static/pizza
+
 # Deploy the built site to the web root
 deploy:
 	/opt/hugo
