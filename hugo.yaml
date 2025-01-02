@@ -67,7 +67,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Posts
-        url: posts
+        url: https://madjid.blog
       - name: Projects
         url: projects
       - name: My CV
@@ -122,7 +122,7 @@ menu:
   main:
     - identifier: posts
       name: posts
-      url: /posts/
+      url: https://madjid.blog
       weight: 10
     - identifier: projects
       name: projects
